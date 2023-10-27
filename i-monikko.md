@@ -1,6 +1,24 @@
-# Monikko i
+# akkusatiivi
+
+## yksikkö: kuin genetiivi
+- avaan ikkunan
+
+## monikko: kuin nominatiivi
+- avaan ikkunat
+
+# partitiivi
+
+## V &rarr; V+a
+- kynä &rarr; kynää
+
+## VV &rarr; VV+ta
+- maa &rarr; maata
+
+# i-monikko
+
 ## vartalo + i = monikkovartalo
-## kopussa:
+
+## lopussa:
 
 ### o/ö/u/y: pysyvät
 
@@ -45,6 +63,7 @@ kun 1. tavussa **i e a** ja sanassa vain 2 tavua
 - ystävyy**de**- + i = ystävyy**ksi**-
 
 ## Pitkät sanat
+Samat säännöt pätevät, paitsi milloin:
 
 ### a/ä &rarr; o/ö + i
 #### -la/lä
