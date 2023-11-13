@@ -1,5 +1,16 @@
 # nominityypit
 
+## partitiivi
+
+Vartalon lopussa
+
+### V &rarr; V+a
+- kynä &rarr; kynää
+
+### VV &rarr; VV+ta
+- maa &rarr; maata
+
+
 ## -i
 | Nominatiivi  | Vartalo       | Partitiivi    | Inessiivi   | Elatiivi    | Illatiivi      |
 | ------------ | ------------- | ------------- | ----------- | ----------- | -------------- |
