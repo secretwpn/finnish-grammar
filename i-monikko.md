@@ -1,19 +1,3 @@
-# akkusatiivi
-
-## yksikkö: kuin genetiivi
-- avaan ikkunan
-
-## monikko: kuin nominatiivi
-- avaan ikkunat
-
-# partitiivi
-
-## V &rarr; V+a
-- kynä &rarr; kynää
-
-## VV &rarr; VV+ta
-- maa &rarr; maata
-
 # i-monikko
 
 ## vartalo + i = monikkovartalo
@@ -70,7 +54,7 @@ Samat säännöt pätevät, paitsi milloin:
 - ravinto**la** + i = ravinto**lo**i-
 - kyntti**lä** + i = kyntti**lö**i-
 
-#### -la/lä
+#### -na/nä
 - ikku**na** + i = ikku**no**i-
 - pääry**nä** + i = pääry**nö**i-
 - ome**na** + i = ome**no**i-
